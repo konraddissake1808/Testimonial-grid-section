@@ -598,6 +598,14 @@ video {
   margin: 0px;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 .flex {
   display: flex;
 }
@@ -727,6 +735,18 @@ video {
 
 .text-\[17px\] {
   font-size: 17px;
+}
+
+.text-\[12px\] {
+  font-size: 12px;
+}
+
+.text-\[11px\] {
+  font-size: 11px;
+}
+
+.text-\[10px\] {
+  font-size: 10px;
 }
 
 .font-medium {
