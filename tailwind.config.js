@@ -17,6 +17,9 @@ module.exports = {
         '70%-white': 'hsl(0, 0%, 70%)',
       }
     },
+    screens: {
+      '3-xl': '1600px',
+    },
   },
   plugins: [],
 }
