@@ -5,6 +5,14 @@ module.exports = {
     fontFamily: {
       'sans': 'Barlow semi condensed',
     },
+    screens: {
+      'sm': '640px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+      '1.5xl': '1440px',
+      '2xl': '1536px',
+    },
     extend: {
       colors: {
         'moderate-violet': 'hsl(263, 55%, 52%)',
